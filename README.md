@@ -6,7 +6,7 @@ common and recommended use cases easy and obvious, and harder use cases less pai
 
 ## Features
 
-This section currently contains a limited high-level synopsis.  Further details will be added when APIs are implemented.
+This section currently contains a limited high-level synopsis. Further details will be added when APIs are implemented.
 
 ### DOM Manipulation
 
@@ -75,16 +75,9 @@ npm link dojo-core
 
 ## How do I contribute?
 
-We appreciate your interest!  Please see the [Guidelines Repository](https://github.com/dojo/guidelines#readme) for the
+We appreciate your interest! Please see the [Guidelines Repository](https://github.com/dojo/guidelines#readme) for the
 Contributing Guidelines and Style Guide.
-
-## Testing
-
-Test cases MUST be written using Intern using the Object test interface and Assert assertion interface.
-
-90% branch coverage MUST be provided for all code submitted to this repository, as reported by istanbul’s combined coverage results for all supported platforms.
 
 ## Licensing information
 
 © 2004–2015 Dojo Foundation & contributors. [New BSD](http://opensource.org/licenses/BSD-3-Clause) license.
-
